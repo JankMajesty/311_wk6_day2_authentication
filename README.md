@@ -177,3 +177,6 @@ This is an example of application specific middleware. Every route will now pass
 ## Summary
 
 If all went according to plan we now have an API that is locked down with authentication and we have also added middleware on all of our routes that logs the current request and the associated date/time.
+
+screen shot newID with bearer token
+To turn in screen shot access_token
